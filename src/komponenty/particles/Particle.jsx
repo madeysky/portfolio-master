@@ -16,7 +16,7 @@ export default function Particle() {
 
   return (
     <Particles
-      className="tsparticles"
+      id="tsparticles"
       init={particlesInit}
       loaded={particlesLoaded}
 
