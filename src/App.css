@@ -6,6 +6,7 @@ body{
 
 :root{
   --primary-white: #fff;
-  --primary-orange:#e5250e;
+  --primary-orange:#ff8039;
+  --secondary-orange:#e5250e;
   --primary-dark: rgba(255,255,255, 0);
 }

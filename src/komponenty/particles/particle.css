@@ -1,0 +1,12 @@
+.tsparticles{
+    position: absolute !important;
+    height: 10rem !important;
+    width: 100vw !important;
+    z-index: 1 !important;
+}
+
+@media(max-width:768px){
+    .tsparticles{
+        display: none;
+    }
+}
