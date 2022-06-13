@@ -13,21 +13,21 @@ export default function Services() {
             <h1 className="py-5">moje usługi</h1>
                 <div className="container">
                     <div className="row rowServices">
-                        <div className="col-md-3 col-sm-6">
+                        <div className="col-lg-3 col-md-6 col-sm-6">
                             <div className="box">
                                 <div className="circle"><FontAwesomeIcon className="icon" icon={faDesktop} size="2x" /></div>
                                 <h3>Projektowanie Stron Internetowych</h3>
                                 <p>Podchodzę do każdego projektu indywidualnie. Najważneiszjy dla mnie jest efekt końcowy.</p>
                             </div>
                         </div>
-                        <div className="col-md-3 col-sm-6">
+                        <div className="col-lg-3 col-md-6 col-sm-6">
                             <div className="box">
                                 <div className="circle"><FontAwesomeIcon className="icon" icon={faFileCode} size="2x" /></div>
                                 <h3>Tworzenie Stron Internetowych</h3>
                                 <p>Twoją stronę zbuduję w oparciu o najnowsze technologie</p>
                             </div>
                         </div>
-                        <div className="col-md-3 col-sm-6">
+                        <div className="col-lg-3 col-md-6 col-sm-6">
                             <div className="box">
                             <div className="circle"><FontAwesomeIcon className="icon" icon={faFacebookF} size="2x" /></div>
                                 <h3>Prowadzenie Mediów Społecznościowych</h3>

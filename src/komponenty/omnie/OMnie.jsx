@@ -21,9 +21,6 @@ export default function OMnie() {
                     <p>
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum, fugiat aliquam iusto ratione, ad nulla neque voluptas nisi ullam at maxime aliquid sint? Asperiores impedit, dolores iste voluptas quae dolorum eius adipisci consequuntur voluptate accusantium omnis molestias quod dolore tenetur beatae voluptatibus vel, temporibus, atque saepe. Doloremque maiores nihil totam dolor aut fugiat saepe tempore distinctio voluptatum, suscipit ipsam, voluptate ipsum culpa quis nesciunt labore deserunt vero quia esse ipsa! Ducimus ipsa repudiandae delectus iure animi explicabo, quibusdam harum nostrum accusamus tempore asperiores beatae. Quod consequatur voluptates alias, itaque facere voluptate expedita ducimus reprehenderit excepturi, soluta necessitatibus quisquam eos? Dolor!
                     </p>
-                    <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum, fugiat aliquam iusto ratione, ad nulla neque voluptas nisi ullam at maxime aliquid sint? Asperiores impedit, dolores iste voluptas quae dolorum eius adipisci consequuntur voluptate accusantium omnis molestias quod dolore tenetur beatae voluptatibus vel, temporibus, atque saepe. Doloremque maiores nihil totam dolor aut fugiat saepe tempore distinctio voluptatum, suscipit ipsam, voluptate ipsum culpa quis nesciunt labore deserunt vero quia esse ipsa! Ducimus ipsa repudiandae delectus iure animi explicabo, quibusdam harum nostrum accusamus tempore asperiores beatae. Quod consequatur voluptates alias, itaque facere voluptate expedita ducimus reprehenderit excepturi, soluta necessitatibus quisquam eos? Dolor!
-                    </p>
                 </div>
             </div>
 
