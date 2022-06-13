@@ -1,7 +1,7 @@
-.photoWrap{
-    display: flex;
-    justify-content: center;
-    align-items: center;
+.photoWrap {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .profilePicture {

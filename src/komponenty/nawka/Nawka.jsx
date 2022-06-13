@@ -21,7 +21,7 @@ export default function Nawka() {
           <a className="nav-link" href="#">O mnie</a>
         </li>
         <li className="nav-item">
-          <a className="nav-link" href="#">Services</a>
+          <a className="nav-link" href="#">Usługi</a>
         </li>
         <li className="nav-item">
           <a className="nav-link" href="#">Doświadczenie</a>

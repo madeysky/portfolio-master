@@ -5,8 +5,9 @@ body{
 }
 
 :root{
-  --primary-white: #fff;
+  --primary-white: #ffffff;
+  --primary-light-gray: #f4f4f4;
   --primary-orange:#ff8039;
   --secondary-orange:#e5250e;
-  --primary-dark: rgba(255,255,255, 0);
+  --primary-dark: rgb(52, 58, 64);
 }
