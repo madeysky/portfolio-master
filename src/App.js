@@ -7,6 +7,7 @@ import OMnie from './komponenty/omnie/OMnie';
 import Services from './komponenty/services/Services';
 import Experience from './komponenty/experience/Experience';
 import Portfolio from './komponenty/portfolio/Portfolio';
+import Kontakt from './komponenty/kontakt/Kontakt';
 
 
 
@@ -20,6 +21,7 @@ function App() {
       <Services />
       <Experience />
       <Portfolio />
+      <Kontakt/>
     </>
   );
 }

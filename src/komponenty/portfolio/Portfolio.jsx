@@ -33,7 +33,7 @@ export default function Portfolio() {
     <div className="portfolioWrapper">
       <div className="container">
         <h1 className="text-uppercase text-center py-5">Portfolio</h1>
-        <div className="row imageBoxWrapper row justify-content-center">
+        <div className="imageBoxWrapper row justify-content-center">
           <div className="portfolioImageBox" onClick={openPopupboxFdm}>
             <img className="portfolioImage" src={fdm} alt="Fizjoterpia Dominika Madej" />
             <div className="overflow"></div>
