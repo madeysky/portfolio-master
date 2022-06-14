@@ -1,0 +1,46 @@
+.portfolioWrapper {
+  background: var(--primary-light-gray);
+  padding: 3rem 0;
+}
+
+.portfolioImage {
+  width: 15rem;
+  border: 1px solid var(--primary-orange);
+  padding: 0 0.5rem;
+}
+
+.portfolioImageBox {
+  position: relative;
+  margin: 1rem;
+}
+
+.overflow {
+  position: absolute;
+  opacity: 0;
+  background: var(--primary-black);
+  width: 15rem;
+  height: 8rem;
+  top: 0;
+  border: 1px solid var(--secondary-orange);
+  cursor: pointer;
+}
+
+.portfolioImageBox:hover .overflow {
+  opacity: 60%;
+  transition: 0.3s ease-in-out;
+}
+
+.portfolioIcon {
+  position: absolute;
+  opacity: 0;
+  margin-left: -8rem;
+  margin-top: 3.6rem;
+  color: var(--primary-orange);
+  font-size: 1.5rem;
+}
+
+.portfolioImageBox:hover .portfolioIcon {
+    opacity: 70%;
+    transition: 0.3s ease-in-out;
+    cursor: pointer; 
+}

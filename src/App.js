@@ -4,12 +4,9 @@ import Nawka from "./komponenty/nawka/Nawka";
 import Header from './komponenty/header/Header';
 import Particle from './komponenty/particles/Particle';
 import OMnie from './komponenty/omnie/OMnie';
-import Services from './services/Services';
+import Services from './komponenty/services/Services';
 import Experience from './komponenty/experience/Experience';
-
-
-
-
+import Portfolio from './komponenty/portfolio/Portfolio';
 
 
 
@@ -19,10 +16,10 @@ function App() {
       <Particle />
       <Nawka />
       <Header />
-      <OMnie/>
-      <Services/>
-      <Experience/>
-      
+      <OMnie />
+      <Services />
+      <Experience />
+      <Portfolio />
     </>
   );
 }
