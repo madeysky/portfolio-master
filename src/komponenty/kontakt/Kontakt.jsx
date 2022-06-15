@@ -34,7 +34,7 @@ export default function Kontakt() {
                             <input
                                 type="text"
                                 className="formControl"
-                                placeholder="Imię"
+                                placeholder="Imię i nazwisko"
                                 name="name"
                             />
                             <div className="line"></div>
@@ -57,7 +57,7 @@ export default function Kontakt() {
                                 type="text"
                                 className="formControl"
                                 placeholder="Temat"
-                                name="temat"
+                                name="subject"
                             />
                         </div>
                         <div className="col-md-6 col-xs-12">
