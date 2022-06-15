@@ -8,6 +8,7 @@ import Services from './komponenty/services/Services';
 import Experience from './komponenty/experience/Experience';
 import Portfolio from './komponenty/portfolio/Portfolio';
 import Kontakt from './komponenty/kontakt/Kontakt';
+import Footer from './komponenty/footer/Footer';
 
 
 
@@ -22,6 +23,7 @@ function App() {
       <Experience />
       <Portfolio />
       <Kontakt/>
+      <Footer/>
     </>
   );
 }
