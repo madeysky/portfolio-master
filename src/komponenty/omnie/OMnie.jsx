@@ -5,7 +5,7 @@ import profilePicture from "../../profilowe.jpeg"
 
 export default function OMnie() {
     return (
-        <div className="container py-5">
+        <div id="omnie" className="container py-5">
             <div className="row">
                 <div className="col-lg-6 com xm-12">
                     <div className="photoWrap mb-5">

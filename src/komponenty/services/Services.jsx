@@ -9,7 +9,7 @@ import { faDesktop } from "@fortawesome/free-solid-svg-icons";
 
 export default function Services() {
     return (
-        <div className="services">
+        <div id="services" className="services">
             <h1 className="py-5">moje usługi</h1>
                 <div className="container">
                     <div className="row rowServices">

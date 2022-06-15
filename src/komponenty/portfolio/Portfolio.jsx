@@ -30,7 +30,7 @@ export default function Portfolio() {
   }
 
   return (
-    <div className="portfolioWrapper">
+    <div id="portfolio" className="portfolioWrapper">
       <div className="container">
         <h1 className="text-uppercase text-center py-5">Portfolio</h1>
         <div className="imageBoxWrapper row justify-content-center">

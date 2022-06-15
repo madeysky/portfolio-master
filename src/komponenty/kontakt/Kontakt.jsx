@@ -21,7 +21,7 @@ export default function Kontakt() {
 
 
     return (
-        <div className="contacts">
+        <div id="kontakt" className="contacts">
             <div className="text-center">
                 <h1>Kontakt</h1>
                 <p>Wypełnij Formularz. Przybliż swoje wymagania. Skontaktuję się z Toba najszybciej jak to będzie możliwe.</p>

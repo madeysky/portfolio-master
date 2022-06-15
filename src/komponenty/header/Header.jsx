@@ -4,7 +4,7 @@ import Typed from "react-typed"
 
 export default function Header() {
   return (
-    <div className="headerWrapper">
+    <div id="home" className="headerWrapper">
         <div className="mainInfo">
             <h1>Tworzenie Stron Internetowych</h1>
             <Typed className="typedText"
