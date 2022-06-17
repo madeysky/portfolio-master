@@ -1,4 +1,41 @@
-.portfolioWrapper {
+.imageBoxWrapper {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.portfolioCard {
+  
+  width: 38rem;
+  border: 1px solid var(--primary-orange);
+  margin: 1rem;
+}
+
+.portfolioImg {
+  padding: 0.3rem;
+  border-bottom: 1px solid var(--primary-orange);
+}
+
+.cardTitle {
+  color: var(--primary-orange);
+  font-size: 2rem;
+}
+
+.cardText {
+  color: var(--primary-white);
+}
+
+.portfolioBTN {
+  margin: 1rem 0 0 0;
+  background: none;
+  font-size: .8rem;
+}
+
+.cardBody {
+  background: var(--primary-dark);
+}
+
+/* .portfolioWrapper {
   background: var(--primary-light-gray);
   padding: 3rem 0;
 }
@@ -12,20 +49,20 @@
 .portfolioImageBox {
   position: relative;
   margin: 1rem;
-}
+} */
 
-.overflow {
+/* .overflow {
   position: absolute;
   opacity: 0;
   background: var(--primary-black);
-  width: 15rem;
+  width: 45rem;
   height: 8rem;
   top: 0;
   border: 1px solid var(--secondary-orange);
   cursor: pointer;
-}
+} */
 
-.portfolioImageBox:hover .overflow {
+/* .portfolioImageBox:hover .overflow {
   opacity: 60%;
   transition: 0.3s ease-in-out;
 }
@@ -43,4 +80,4 @@
     opacity: 70%;
     transition: 0.3s ease-in-out;
     cursor: pointer; 
-}
+} */
