@@ -14,7 +14,7 @@ export default function Header() {
             backSpeed={60}
             loop
             />
-            <Link smooth={true} to="kontakt" offset={-110} href="#" className="btnMainOffer">Kontakt</Link>
+            <Link smooth={true} to="kontakt" offset={-110} className="btnMainOffer">Kontakt</Link>
         </div>
     </div>
   )

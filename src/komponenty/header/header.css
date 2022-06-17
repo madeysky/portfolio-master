@@ -58,7 +58,7 @@
     text-decoration: none;
 }
 
-.btnMainOffer:hover{
+.btnMainOffer:hover {
     text-decoration: none;
     color: var(--primary-white);
     background-color: var(--primary-orange);

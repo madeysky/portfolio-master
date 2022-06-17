@@ -22,7 +22,9 @@ export default function Portfolio() {
                             <Card.Text className="cardText">
                                 Wizytówka indywidulanej praktyki fizjoterapeutycznej.
                             </Card.Text>
-                            <Button className="btnMainOffer portfolioBTN" variant="primary">Odwiedź Stronę</Button>
+                            <Button href="https://madeysky.github.io/Strona-Dominiki/" target="_blank" className="btnMainOffer portfolioBTN" variant="primary">
+                                Odwiedź Stronę
+                            </Button>
                         </Card.Body>
                     </Card>
                     <Card className="portfolioCard">
@@ -32,29 +34,14 @@ export default function Portfolio() {
                             <Card.Text className="cardText">
                                 Blog osobisty o tematyce sportowej i stylu życia.
                             </Card.Text>
-                            <Button className="btnMainOffer portfolioBTN" variant="primary">Odwiedź Stronę</Button>
+                            <Button href="#" target="_blank" className="btnMainOffer portfolioBTN">
+                                Odwiedź Stronę
+                            </Button>
                         </Card.Body>
                     </Card>
-
-
-                    {/* <div className="portfolioImageBox">
-                        <img className="portfolioImage" src={fdm} alt="Fizjoterpia Dominika Madej" />
-                        <div className="overflow"></div>
-                    </div>
-                    <div className="portfolioImageBox">
-                        <img className="portfolioImage" src={p85} alt="Projekt 85" />
-                        <div className="overflow"></div>
-                    </div> */}
                 </div>
             </div>
-
-
             );
-
-
-
-
         </div>
-
     )
 }
