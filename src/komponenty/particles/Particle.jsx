@@ -22,6 +22,7 @@ export default function Particle() {
 
       options={
         {
+          fullScreen: { enable: false },
           fpsLimit: 120,
           particles: {
             color: {

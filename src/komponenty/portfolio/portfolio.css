@@ -5,15 +5,14 @@
 }
 
 .portfolioCard {
-  
   width: 38rem;
-  border: 1px solid var(--primary-orange);
+  border: none;
   margin: 1rem;
 }
 
 .portfolioImg {
   padding: 0.3rem;
-  border-bottom: 1px solid var(--primary-orange);
+  border: none;
 }
 
 .cardTitle {
@@ -28,7 +27,7 @@
 .portfolioBTN {
   margin: 1rem 0 0 0;
   background: none;
-  font-size: .8rem;
+  font-size: 0.8rem;
 }
 
 .cardBody {
